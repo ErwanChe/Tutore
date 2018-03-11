@@ -7,5 +7,62 @@
     <title></title>
   </head>
   <body>
+    <form>
+      <div class="form-group">
+        <label for="exampleFormControlSelect1">Civilité</label>
+        <select class="form-control" id="exampleFormControlSelect1">
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>
+          <option>5</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="formGroupExampleInput">Nom</label>
+        <input type="text" class="form-control" id="formGroupExampleInput">
+      </div>
+      <div class="form-group">
+        <label for="formGroupExampleInput">Prénom</label>
+        <input type="text" class="form-control" id="formGroupExampleInput">
+      </div>
+      <div class="form-group">
+        <label for="formGroupExampleInput">Adresse</label>
+        <input type="text" class="form-control" id="formGroupExampleInput">
+      </div>
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col">
+            <div class="form-group">
+              <label for="formGroupExampleInput">Code postale</label>
+              <input type="text" class="form-control" id="formGroupExampleInput">
+            </div>
+          </div>
+          <div class="col">
+            <div class="form-group">
+              <label for="formGroupExampleInput">Commune</label>
+              <input type="text" class="form-control" id="formGroupExampleInput">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="formGroupExampleInput">Tel.</label>
+        <input type="number" class="form-control" id="formGroupExampleInput">
+      </div>
+      <div class="form-group">
+        <label for="formGroupExampleInput">E.mail</label>
+        <input type="email" class="form-control" id="formGroupExampleInput">
+      </div>
+      <div class="form-group">
+        <label for="exampleInputPassword1">Créez votre mot de passe (8 caractères minimum)</label>
+        <input type="password" pattern=".{6,}" required title="8 caractères minimum" class="form-control" id="exampleInputPassword1" placeholder="Password">
+      </div>
+      <div class="form-group">
+        <label for="exampleInputPassword1">Confirmation de votre mot de passe</label>
+        <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+      </div>
+
+    </form>
   </body>
 </html>
