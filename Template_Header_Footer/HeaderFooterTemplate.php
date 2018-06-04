@@ -12,10 +12,10 @@
           integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500|Lato:400,700,900|Fjalla+One"
           rel="stylesheet">
-    <link rel="stylesheet" href="bundles/app/css/07a1499.css%3F5.0.12.2.css"/>
+    <link rel="stylesheet" href="bundles/app/css/ajax-loader.css"/>
 
 
-    <link rel="stylesheet" href="bundles/themessinglepagetheme/css/0c85925.css%3F5.0.12.2.css"/>
+    <link rel="stylesheet" href="bundles/themessinglepagetheme/css/ajax-loader.css"/>
 
     <link rel="icon" type="image/x-icon" href="favicon.ico"/>
 
